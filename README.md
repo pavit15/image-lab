@@ -1,11 +1,11 @@
-# 🧪 Image Lab: Tinker with Images Using Maths
+# Image Lab: Tinker with Images Using Mathematical Functions
 *A playground for algorithmic image transformations*
 
 ---
 
-## 🔥 Features
+##  Features
 
-- **10+ Mathematical Operations**  
+- **Implementation of Mathematical Operations such as:**  
   - Contrast stretching, DFT/DCT, Convolution  
   - Laplacian filters, Histogram equalization  
   - Walsh/Hadamard transforms  
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component        | Technology          | Role                          |
 |------------------|---------------------|-------------------------------|
@@ -24,7 +24,7 @@
 | **Math Engine**  | NumPy + SciPy       | Matrix/linear algebra          |
 | **Visualization**| Matplotlib/Plotly   | Plots & interactive charts     |
 
-## 📚 Algorithm Showcase
+## Algorithm Showcase
 
 | Operation             | Math Concept Used               | Visual Effect                 |
 |-----------------------|---------------------------------|-------------------------------|
